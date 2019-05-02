@@ -1,3 +1,6 @@
+# Okay guys, this might be the legacy version I once used for my earlier versions of my "24/7 Radio" bots (Untesed yet)
+The latest version now needs the bot to be restarted daily for 24/7 Radio instance to work should one that ran out of dyno hours. Now here's below thevathevag
+
 # This repo is a *non-official* version of RhinoBot ready for deployment on Heroku
 
 Just a quick note: ***This is not in any way official***. This is just a guide on how to get the bot hosted on a Heroku's free cloud service. There might be much better services out there but this works for me and so this repo is showing you how to go about setting it up yourself.  
